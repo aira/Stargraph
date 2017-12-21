@@ -34,4 +34,3 @@ services:
     mem_limit: 8g
     environment:
       - "STARGRAPH_JAVA_OPTS=-Xms7g -Xmx7g"
-
